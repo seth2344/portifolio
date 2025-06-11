@@ -58,7 +58,8 @@ body {
 
 .projeto {
   display: block;
-  width: 707px;
+  width: 200
+    px;
   height: 305px;
   background-size: cover;
   background-position: center;
